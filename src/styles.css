@@ -1,0 +1,6 @@
+@media print {
+  /* Hide all buttons when printing */
+  .btn {
+    display: none !important;
+  }
+}
